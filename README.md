@@ -1,2 +1,2 @@
 # images
-an image set to instore pictures of my note.
+an image set to store pictures of my note.
